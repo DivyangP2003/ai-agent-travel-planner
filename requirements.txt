@@ -1,0 +1,10 @@
+streamlit
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+geopy
+folium
+streamlit-folium
+python-dotenv
+requests

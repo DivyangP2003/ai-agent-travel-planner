@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+
+# Env / keys
+.env
+.env.* 
+secrets.toml
+config.ini
+
+# Virtual envs
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
